@@ -20,9 +20,9 @@ function App() {
                     </Header>
                     <Drawer title={<Link style = {{textDecoration : 'none', color: 'black'}} to = "/">Home</Link>} >
                         <Navigation>
-                            <a href="/projects">Projects</a>
-                            <a href="/resume">Resume</a>
-                            <a href="/contact">Contact</a>
+                                <Link to="/projects">Projects</Link>
+                                <Link to="/resume">Resume</Link>
+                                <Link to="/contact">Contact</Link>
                         </Navigation>
                     </Drawer>
                     <Content>
