@@ -14,7 +14,7 @@ class landin extends Component {
                             className = "avatar-img"        
                        /> 
 
-                       <div className = "banner-text">
+                       <div className = "banner-text" style = {{marginBottom: "20px"}}>
                            
                             <h1 id= "tag-head" >Full-Stack Developer</h1>
 
