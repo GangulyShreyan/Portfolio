@@ -10,7 +10,7 @@ class projects extends Component {
 
     toggleCatagories(){
 
-        {/* ReactJS */}
+        
         if(this.state.activeTab === 2){
             return(
                 <Card shadow = {5} style ={{ minWidth :'450', margin : 'auto'}}>
@@ -26,7 +26,7 @@ class projects extends Component {
             )
         }
 
-        {/* ReactJS */}
+       
         if(this.state.activeTab === 1){
             return(
                 <Card shadow = {5} style ={{ minWidth :'450', margin : 'auto'}}>
@@ -40,7 +40,7 @@ class projects extends Component {
             )
         }
 
-        {/* ReactJS */}
+        
         if(this.state.activeTab === 0){
             return(
 
