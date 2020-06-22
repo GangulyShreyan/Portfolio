@@ -27,11 +27,11 @@ class resume extends Component {
                         <h5>Address</h5>
                         <p>Ganguly Mansion, Habra, West Bengal, 743263</p>
                         <h5>Phone</h5>
-                        <p> 9775694310 </p>
+                        <p> +91 9775672103 </p>
                         <h5>Email</h5>
                         <p>126shreyan@gmail.com</p>
                         <h5>Website</h5>
-                        <p>localhost:3000</p>
+                        <a href = "https://gangulyshreyan.netlify.app/">gangulyshreyan.netlify.app</a>
                         <hr style = {{borderTop: '3px solid #833fb2', width: '50%'}} />
                     </Cell>
                     <Cell className = "resume-right-col" col = {8}>

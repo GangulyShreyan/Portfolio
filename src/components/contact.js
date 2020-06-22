@@ -27,15 +27,28 @@ class contact extends Component {
                                         <ListItem>
                                             <ListItemContent style = {{fontSize: '25px', fontFamily: 'Anton'}}>
                                                 <i className = "fa fa-phone-square" aria-hidden = "true" />
-                                                +91 9775672103</ListItemContent>
+                                                <a href = "tel:9775672103">+91 9775672103</a></ListItemContent>
                                         </ListItem>
-
 
                                         <ListItem>
                                             <ListItemContent style = {{fontSize: '20px', fontFamily: 'Anton'}}>
                                                 <i className = "fa fa-envelope" aria-hidden = "true" />
-                                                126shreyan@gmail.com</ListItemContent>
+                                                <a href = "mailto:126shreyan@gmail.com">126shreyan@gmail.com</a></ListItemContent>
                                         </ListItem>
+
+                                        <ListItem>
+                                            <ListItemContent style = {{fontSize: '20px', fontFamily: 'Anton'}}>
+                                                <i className = "fa fa-twitter" aria-hidden = "true" />
+                                                <a href ="https://twitter.com/GangulyShreyan" target = "_blank">@GangulyShreyan</a></ListItemContent>
+                                        </ListItem>
+
+                                        <ListItem>
+                                            <ListItemContent style = {{fontSize: '20px', fontFamily: 'Anton'}}>
+                                                <i className = "fa fa-facebook" aria-hidden = "true" />
+                                                <a href ="https://www.facebook.com/ZE112358/" target = "_blank" style = {{ marginLeft: "12px"}}>Shreyan Ganguly</a></ListItemContent>
+                                        </ListItem>
+
+                                        
                                     </List>
                             </div>
                             
