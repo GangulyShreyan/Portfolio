@@ -41,7 +41,7 @@ class resume extends Component {
                             startYear = {2019}
                             endYear = {2023}
                             schoolName = "Jadavpur University"
-                            schoolDescription = "B.E. in Construction Engineering."
+                            schoolDescription = "B.E. in Construction Engineering"
                         />
                         <Education
                             startYear = {2016}
@@ -53,10 +53,10 @@ class resume extends Component {
 
                         <h2>Experience</h2>
                         <Experience 
-                            startYear = {2019}
+                            startYear = {2020}
                             endYear = "Present"
                             jobName = "SM&PR Group, Construction Engineering JU"
-                            jobDescription = "Maintainence In-Charge, Assosciate Team Head, Web Development Team"
+                            jobDescription = "Maintenance In-Charge, Assosciate Team Head, Web Development Team"
                         />
                         <hr style = {{borderTop:'3px solid #e22947'}} />
 
