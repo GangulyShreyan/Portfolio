@@ -123,12 +123,11 @@
     display: flex;
   }
 }
-
+*/
 @media (max-width :1200px){
   .projects-grid{
     display: flex;
-    flex-direction: column;
-    width: 330px;
+    margin-left : -10px;
     
   }
-}*/
+}

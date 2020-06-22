@@ -9,7 +9,7 @@ class landin extends Component {
                 <Grid className = "landing-grid">
                     <Cell col = {12}>
                         <img
-                            src = "https://media-exp1.licdn.com/dms/image/C5103AQEYZFwr0mKwiw/profile-displayphoto-shrink_400_400/0?e=1598486400&v=beta&t=C-Oo90iHrn8PCTd0NXT8JY73HnpUXY_EVs7HjFHfi2g"
+                            src={require('../zzz.png')}
                             alt = "avatar"
                             className = "avatar-img"        
                        /> 
