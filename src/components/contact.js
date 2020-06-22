@@ -39,13 +39,13 @@ class contact extends Component {
                                         <ListItem>
                                             <ListItemContent style = {{fontSize: '20px', fontFamily: 'Anton'}}>
                                                 <i className = "fa fa-twitter" aria-hidden = "true" />
-                                                <a href ="https://twitter.com/GangulyShreyan" target = "_blank">@GangulyShreyan</a></ListItemContent>
+                                                <a href ="https://twitter.com/GangulyShreyan">@GangulyShreyan</a></ListItemContent>
                                         </ListItem>
 
                                         <ListItem>
                                             <ListItemContent style = {{fontSize: '20px', fontFamily: 'Anton'}}>
                                                 <i className = "fa fa-facebook" aria-hidden = "true" />
-                                                <a href ="https://www.facebook.com/ZE112358/" target = "_blank" style = {{ marginLeft: "12px"}}>Shreyan Ganguly</a></ListItemContent>
+                                                <a href ="https://www.facebook.com/ZE112358/" style = {{ marginLeft: "12px"}}>Shreyan Ganguly</a></ListItemContent>
                                         </ListItem>
 
                                         
