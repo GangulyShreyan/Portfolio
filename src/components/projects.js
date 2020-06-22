@@ -64,8 +64,8 @@ class projects extends Component {
                                 <CardTitle   style = {{color: '#fff',height:'176px', background: `url(${require('../images/darktorrent.PNG')}) center/cover`}}></CardTitle>
                                 <CardText><h5 style = {{margin:'0', marginBottom:'5px'}}>DarkTorrent</h5>A powerful torrent scraper to yield your favorite torrent site.</CardText>
                                 <CardActions border>
-                                    <Button href = "https://github.com/GangulyShreyan/AnonymousReview" target = "_blank" colored>Github</Button>
-                                    <Button href = "https://anonymousreview.herokuapp.com/" target = "_blank" colored>Website</Button>
+                                    <Button href = "https://github.com/GangulyShreyan/DarkTorrent" target = "_blank" colored>Github</Button>
+                                    <Button href = "https://guarded-retreat-67123.herokuapp.com/" target = "_blank" colored>Website</Button>
                                 </CardActions> 
                                 <CardMenu style = {{color: '#fff'}}>
                                     <IconButton name = "share" />
@@ -80,8 +80,8 @@ class projects extends Component {
                                 <CardText><h5 style = {{margin:'0', marginBottom:'5px'}}>Anonymous Review</h5>A Firebase backed network for sending/ receiving anonymous reviews.</CardText>
                                 
                                 <CardActions border>
-                                    <Button href = "https://github.com/GangulyShreyan/DarkTorrent" target = "_blank" colored>Github</Button>
-                                    <Button href = "https://guarded-retreat-67123.herokuapp.com/" target = "_blank" colored>Website</Button>
+                                    <Button href = "https://github.com/GangulyShreyan/AnonymousReview" href = "https://github.com/GangulyShreyan/DarkTorrent" target = "_blank" colored>Github</Button>
+                                    <Button href = "https://anonymousreview.herokuapp.com/"  target = "_blank" colored>Website</Button>
                                 </CardActions> 
                                 <CardMenu style = {{color: '#fff'}}>
                                     <IconButton name = "share" />
