@@ -42,7 +42,7 @@ class resume extends Component {
                             startYear = {2019}
                             endYear = {2023}
                             schoolName = "Jadavpur University"
-                            schoolDescription = "B.E. in Construction Engineering"
+                            schoolDescription = "B.E."
                         />
                         <Education
                             startYear = {2016}
